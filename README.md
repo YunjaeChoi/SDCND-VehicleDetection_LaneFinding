@@ -6,5 +6,5 @@ Part of Udacity Self Driving Car Nanodegree.
 
 Learned model video:
 
-[![](http://img.youtube.com/watch?v=MRSS4IX2jm/0.jpg)](http://www.youtube.com/watch?v=MRSS4IX2jm "")
+[![](http://img.youtube.com/vi/MRSS4IX2jm8/0.jpg)](http://www.youtube.com/watch?v=MRSS4IX2jm8 "")
 
